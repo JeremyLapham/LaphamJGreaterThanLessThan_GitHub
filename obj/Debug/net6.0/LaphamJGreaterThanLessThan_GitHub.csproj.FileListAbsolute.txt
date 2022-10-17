@@ -1,0 +1,15 @@
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\bin\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.exe
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\bin\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.deps.json
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\bin\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.runtimeconfig.json
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\bin\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.dll
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\bin\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.pdb
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.csproj.AssemblyReference.cache
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.AssemblyInfoInputs.cache
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.AssemblyInfo.cs
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.csproj.CoreCompileInputs.cache
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.dll
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\refint\LaphamJGreaterThanLessThan_GitHub.dll
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.pdb
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\LaphamJGreaterThanLessThan_GitHub.genruntimeconfig.cache
+C:\Users\starf\OneDrive\Documents\Code Stack 22-23\Level1\GitHub_Repos.Projects\LaphamJGreaterThanLessThan_GitHub\obj\Debug\net6.0\ref\LaphamJGreaterThanLessThan_GitHub.dll
